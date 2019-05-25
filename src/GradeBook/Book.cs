@@ -14,6 +14,7 @@ namespace GradeBook
 
         public void AddGrade(double grade)
         {
+
             if (grade > 100)
             {
                 throw new Exception("Grade is over 100");
@@ -33,6 +34,10 @@ namespace GradeBook
             var highGrade = double.MinValue;
             var lowGrade = double.MaxValue;
             var result = 0.0;
+            if (grades.Count == 0)
+            {
+                throw new Exception("No grade has been added, please add grades");
+            }
             foreach (var number in this.grades)
             {
                 lowGrade = Math.Min(number, lowGrade);

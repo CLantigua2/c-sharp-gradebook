@@ -10,8 +10,11 @@ namespace GradeBook
         {
             var book = new Book("Carlos's Grade Book");
             book.AddGrade(89.1);
-            book.AddGrade(90.4);
-            book.AddGrade(100);
+            book.AddGrade(50.7);
+            book.AddGrade(70.6);
+            book.AddGrade(80.0);
+            book.AddGrade(85.0);
+            book.AddGrade(66);
             book.showStatistics();
             // creating a new array of numbers
             // double[] numbers = new double[3] { 12.7, 5.2, 1.3 };
