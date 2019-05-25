@@ -14,7 +14,18 @@ namespace GradeBook
 
         public void AddGrade(double grade)
         {
-            this.grades.Add(grade);
+            if (grade > 100)
+            {
+                throw new Exception("Grade is over 100");
+            }
+            else if (grade < 0)
+            {
+                throw new Exception("Grade must be greater than 0");
+            }
+            else
+            {
+                this.grades.Add(grade);
+            }
         }
 
         public void showStatistics()
