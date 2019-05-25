@@ -1,8 +1,9 @@
 using System;
 using System.Collections.Generic;
+
 namespace GradeBook
 {
-    class Book
+    public class Book
     {
         // constructor
         public Book(string name)
@@ -29,7 +30,7 @@ namespace GradeBook
             }
         }
 
-        public void showStatistics()
+        public void GetStatistics()
         {
             var highGrade = double.MinValue;
             var lowGrade = double.MaxValue;

@@ -3,7 +3,6 @@ using System.Collections.Generic;
 
 namespace GradeBook
 {
-
     class Program
     {
         static void Main(string[] args)
@@ -22,7 +21,6 @@ namespace GradeBook
             // var result = 0.0;
             // List<double> grades = new List<double>() { 12.7, 5.2, 1.3 };
             // grades.Add(56.1);
-
         }
     }
 }
