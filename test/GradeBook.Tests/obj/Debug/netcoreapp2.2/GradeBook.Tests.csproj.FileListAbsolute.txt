@@ -12,3 +12,6 @@ E:\My Projects\learning\pluralsight\c#\c# fundamentals\02\gradebook\test\GradeBo
 E:\My Projects\learning\pluralsight\c#\c# fundamentals\02\gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp2.2\GradeBook.Tests.AssemblyInfo.cs
 E:\My Projects\learning\pluralsight\c#\c# fundamentals\02\gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp2.2\GradeBook.Tests.dll
 E:\My Projects\learning\pluralsight\c#\c# fundamentals\02\gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp2.2\GradeBook.Tests.pdb
+E:\My Projects\learning\pluralsight\c#\c# fundamentals\02\gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp2.2\GradeBook.dll
+E:\My Projects\learning\pluralsight\c#\c# fundamentals\02\gradebook\test\GradeBook.Tests\bin\Debug\netcoreapp2.2\GradeBook.pdb
+E:\My Projects\learning\pluralsight\c#\c# fundamentals\02\gradebook\test\GradeBook.Tests\obj\Debug\netcoreapp2.2\GradeBook.Tests.csproj.CopyComplete

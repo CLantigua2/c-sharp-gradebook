@@ -30,23 +30,25 @@ namespace GradeBook
             }
         }
 
-        public void GetStatistics()
+        public Statistics GetStatistics()
         {
-            var highGrade = double.MinValue;
-            var lowGrade = double.MaxValue;
-            var result = 0.0;
+            var result = new Statistics();
+            result.Average = 0.0;
+            result.High = double.MinValue;
+            result.Low = double.MaxValue;
             if (grades.Count == 0)
             {
                 throw new Exception("No grade has been added, please add grades");
             }
-            foreach (var number in this.grades)
+            foreach (var grade in this.grades)
             {
-                lowGrade = Math.Min(number, lowGrade);
-                highGrade = Math.Max(number, highGrade);
-                result += number;
+                result.Low = Math.Min(grade, result.Low);
+                result.High = Math.Max(grade, result.High);
+                result.Average += grade;
             }
-            result /= grades.Count;
-            Console.WriteLine(value: $"\nThe average grade is {result:N1}\n The highest grade is {highGrade:N1}\n The lowest grade is {lowGrade:N1}");
+            result.Average /= grades.Count;
+
+            return result;
         }
         // this is a field because it's outside of a method
         // made private so that only this class can have access to grades

@@ -19,7 +19,7 @@ namespace GradeBook.Tests
             // assert (returns true or false)
             Assert.Equal(52.1, result.Average);
             Assert.Equal(80.5, result.High);
-            Assert.Equal(30.0, result.Low);
+            Assert.Equal(30.2, result.Low);
         }
     }
 }
