@@ -1,0 +1,11 @@
+E:\My Projects\learning\pluralsight\c#\c# fundamentals\02\gradebook\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.deps.json
+E:\My Projects\learning\pluralsight\c#\c# fundamentals\02\gradebook\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.runtimeconfig.json
+E:\My Projects\learning\pluralsight\c#\c# fundamentals\02\gradebook\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.runtimeconfig.dev.json
+E:\My Projects\learning\pluralsight\c#\c# fundamentals\02\gradebook\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.dll
+E:\My Projects\learning\pluralsight\c#\c# fundamentals\02\gradebook\src\GradeBook\bin\Debug\netcoreapp2.2\GradeBook.pdb
+E:\My Projects\learning\pluralsight\c#\c# fundamentals\02\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.csprojAssemblyReference.cache
+E:\My Projects\learning\pluralsight\c#\c# fundamentals\02\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.csproj.CoreCompileInputs.cache
+E:\My Projects\learning\pluralsight\c#\c# fundamentals\02\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.AssemblyInfoInputs.cache
+E:\My Projects\learning\pluralsight\c#\c# fundamentals\02\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.AssemblyInfo.cs
+E:\My Projects\learning\pluralsight\c#\c# fundamentals\02\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.dll
+E:\My Projects\learning\pluralsight\c#\c# fundamentals\02\gradebook\src\GradeBook\obj\Debug\netcoreapp2.2\GradeBook.pdb
